@@ -1,0 +1,14 @@
+.NameColumn {
+    display: inline-block;
+    height: 100%;
+    width: 200px;
+}
+
+.Name {
+    height: 100vh; /* Set the height of the container to 100% of the viewport height */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    font-size: 24pt;
+    text-transform: uppercase;
+}

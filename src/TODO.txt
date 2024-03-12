@@ -1,0 +1,2 @@
+- Make the column width adjust to the screen size
+- Create a special layout for phones
